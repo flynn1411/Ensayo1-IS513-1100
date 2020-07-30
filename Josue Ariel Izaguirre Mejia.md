@@ -11,7 +11,7 @@
 2. [Importancia de Aprender sobre Lenguajes de Programación](##2.-Importancia-de-Aprender-sobre-Lenguajes-de-Programación)
 3. [Contexto Histórico](##3.-Contexto-Histórico)
 4. [Clasificación de los Lenguajes de Programación](##4.-Clasificación-de-los-Lenguajes-de-Programación)
-5. [Tipos de Implementación](##5.-Tipos-de-Implementación)
+5. [Tipos de Implementación](##5.-Tipos-de-Implementación) 
 
 ## **1. Introducción**
 
@@ -130,3 +130,6 @@ La implementación pura es el opuesto a la implementación de compilación. En l
 3. *Implementación Hibrída:*
 
 Ambas implementaciones vistas anteriormente son el opuesto una de la otra. Esto deja a decisión si optar por una rápida ejecución y lenta compilación, o lenta ejecución pero portable. Los conflictoas anteriores han llevado al diseño hibrído, el cual combina lo mejor de ambas partes. La implementación hibrida tiene un comienzo parecido al de la compilación. Donde comienza a diferenciarse es al llegar al código intermedio, donde se consigue un archivo que puede ser ejecutado por una máquina virtual creada para ejecutar el código al interpretarlo. Se resuelve el problema de privacidad al obtener un código ejecutable y al mismo tiempo el de portabilidad. La ejecución es más rápida que en interpretación pura.
+
+
+## **Conclusiones**
