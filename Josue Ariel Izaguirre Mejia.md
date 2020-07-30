@@ -21,6 +21,8 @@ Los lenguajes de programación han facilitado la comunicación con las computado
 
 El profundizar en los lenguajes de programación es de suma importancia para cualquiera que esté aprendiendo sobre las ciencias computacionales o a programar. Dentro de las múltiples razones por la cual se considera necesario aprender sobre este tema, se encuentra:
 
+![Parte1](https://raw.githubusercontent.com/flynn1411/Ensayo1-IS513-1100/master/Imag%C3%A9nes/timeline1.png)
+
 - **Evitar Limitaciones y Poder Elegir un Lenguaje Indicado**
 
     Las capacidades de un programador se ven limitadas por su comprensión  del lenguaje o lenguajes que pueda utilizar. Al poder comprender más sobre las carácteristicas que conforman el lenguaje que utilizan, se puede hacer un mejor uso del mismo. Asímismo, cada lenguaje provee utilidades distintas para distintas areás de la computación, por lo que saber cual lenguaje o lenguajes son los más aptos para el software a desarrollar es importante.
